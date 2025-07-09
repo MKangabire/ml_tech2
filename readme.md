@@ -1,4 +1,4 @@
 ## Members of the group
-- Ines Kirezi
+- Ines Ikirezi
 - Kangabire Muhoza Merveille
 - Tumwesigye Geofrey
