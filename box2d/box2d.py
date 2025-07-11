@@ -3,7 +3,7 @@ import gymnasium as gym
 # Initialise the environment
 env = gym.make("FrozenLake-v1", render_mode="human")
 
-# Reset the environment to generate the first observation
+# Resetting the environment to generate the first observation
 observation, info = env.reset(seed=42)
 for _ in range(1000):
     # this is where you would insert your policy
